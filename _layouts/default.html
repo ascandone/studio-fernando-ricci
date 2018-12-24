@@ -1,0 +1,23 @@
+---
+---
+<!DOCTYPE html>
+<html lang="it">
+<script>
+const $ = (q, ctx) => document.querySelector(q, ctx), $$ = (q, ctx) => Array.prototype.slice.call(document.querySelectorAll(q, ctx));
+</script>
+
+{% include head.html %}
+
+<body>
+  {% include header.html %}
+	{% include nav-bar.html %}
+	
+  <main class="container hidden">
+			{{content}}
+  </main>	
+</body>
+
+<script>
+	$('main').classList.toggle('hidden')
+</script>
+</html>

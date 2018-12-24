@@ -1,0 +1,11 @@
+<head>
+	<meta charset="utf-8">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="{{ "./assets/normalize.css" | relative_url }}" defer>
+	<link rel="stylesheet" type="text/css" href="{{ "./assets/style.css" | relative_url }}">
+	<meta name="theme-color" content="#{{site.accent-color}}">
+	<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="description" content="{{site.description}}">
+	<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+	<script async src="{{"./assets/index.js" | relative_url }}"></script>
+</head>

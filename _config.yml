@@ -1,0 +1,18 @@
+title: Studio dentistico Fernando Ricci
+description: >-
+  Studio dentistico Roma
+baseurl: ""
+url: ""
+
+accent-color: 00BFA5
+
+# Build settings
+markdown: kramdown
+
+include: [_pages]
+sass:
+  style: compressed
+
+collections:
+  prestazioni:
+    output: true

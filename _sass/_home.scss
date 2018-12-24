@@ -1,0 +1,15 @@
+#propic {
+  border-radius: 4px;
+  max-height: 27rem;
+  display: block;
+  margin: 0 auto 2rem auto;
+  box-shadow: -2px 3px 6px rgba(32,33,36,0.28);
+}
+
+@media (min-width: 40.0rem) {
+  #home.row {
+		flex-direction: row-reverse!important
+  }
+}
+	
+		
