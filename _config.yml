@@ -1,8 +1,8 @@
 title: Studio dentistico Fernando Ricci
 description: >-
   Studio dentistico Roma
-baseurl: "studio-fernando-ricci/"
-url: ""
+baseurl: ""
+url: "studio-fernando-ricci"
 
 accent-color: 00BFA5
 
