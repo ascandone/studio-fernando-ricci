@@ -4,7 +4,7 @@ title: Curriculum
 layout: primary
 ---
 
-Nato a Roma il nel 1952 si laurea in Medicina e Chirurgia con il massimo dei voti e Lode presso l'Università di Roma "La Sapienza".
+Nato a Roma nel 1952 si laurea in Medicina e Chirurgia con il massimo dei voti e Lode presso l'Università di Roma "La Sapienza".
 Trascorre quindi 4 anni nelle sale operatorie di diverse strutture cliniche dove fa pratica di
 chirurgia generale, chirurgia d'urgenza, chirurgia maxillofacciale e chirurgia plastica e
 ricostruttiva.

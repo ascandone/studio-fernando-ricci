@@ -28,8 +28,8 @@ Nell'assoluta maggioranza dei casi la perdita dei capelli è legata a fattori or
 Il testosterone è presente in piccole quantità anche nella donna. Quando questa eredita dei bulbi sensibili all'azione di questo ormone può andare incontro ad una calvizie con meccanismo analogo a quella maschile anche se con un aspetto differente in quanto nel sesso femminile la perdita dei capelli è diffusa invece che concentrata sulle tempie e sulla nuca.
 Oggigiorno le armi più efficaci per combattere la calvizie sono il PRP, la carbossiterapia ed il microneedling
 
-### Microneeling
-Il microneeling è un trattamento di medicina estetica in cui tramite l'utilizzo di sottili aghi si va a stimolare la pelle per provocarne un miglioramento. Sappiamo infatti che quando si provoca una ferita la pelle mette in atto dei meccanismi di guarigione con la produzione di collagene ed elastina. La stimolazione cutanea ripetuta con l'utilizzo di una speciale penna ad aghi permette di correggere numerose imperfezioni della pelle fra cui:
+### Microneedling
+Il microneedling è un trattamento di medicina estetica in cui tramite l'utilizzo di sottili aghi si va a stimolare la pelle per provocarne un miglioramento. Sappiamo infatti che quando si provoca una ferita la pelle mette in atto dei meccanismi di guarigione con la produzione di collagene ed elastina. La stimolazione cutanea ripetuta con l'utilizzo di una speciale penna ad aghi permette di correggere numerose imperfezioni della pelle fra cui:
 *	cicatrici da acne
 *	rughe sottili del labbro superiore
 *	smagliature
